@@ -53,6 +53,8 @@ RUN apk add --no-cache --virtual .build-dependencies \
     && rm -Rf /build /tmp/*
 
 EXPOSE 25/tcp
+EXPOSE 143/TCP
+
 WORKDIR /
 
 # Set bash by default
