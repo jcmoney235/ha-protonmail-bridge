@@ -13,7 +13,7 @@ pretty easy. Follow https://home-assistant.io/hassio/installing_third_party_addo
 website of Home Assistant, and use the following URL: 
 
 ```
-https://github.com/fboulay/ha-addons-repository
+https://github.com/magnavoid/ha-protonmail-bridge/
 ```
 
 == Available add-ons
